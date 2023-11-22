@@ -1,0 +1,18 @@
+D:\Documents\Visual Studio 2022\Projects\SeaBattleNew\SeaBattleNew\bin\Release\net6.0-windows\Морской бой.exe
+D:\Documents\Visual Studio 2022\Projects\SeaBattleNew\SeaBattleNew\bin\Release\net6.0-windows\Морской бой.deps.json
+D:\Documents\Visual Studio 2022\Projects\SeaBattleNew\SeaBattleNew\bin\Release\net6.0-windows\Морской бой.runtimeconfig.json
+D:\Documents\Visual Studio 2022\Projects\SeaBattleNew\SeaBattleNew\bin\Release\net6.0-windows\Морской бой.dll
+D:\Documents\Visual Studio 2022\Projects\SeaBattleNew\SeaBattleNew\bin\Release\net6.0-windows\Морской бой.pdb
+D:\Documents\Visual Studio 2022\Projects\SeaBattleNew\SeaBattleNew\obj\Release\net6.0-windows\SeaBattleNew.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Projects\SeaBattleNew\SeaBattleNew\obj\Release\net6.0-windows\SeaBattleNew.Form1.resources
+D:\Documents\Visual Studio 2022\Projects\SeaBattleNew\SeaBattleNew\obj\Release\net6.0-windows\SeaBattleNew.Properties.Resources.resources
+D:\Documents\Visual Studio 2022\Projects\SeaBattleNew\SeaBattleNew\obj\Release\net6.0-windows\SeaBattleNew.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Projects\SeaBattleNew\SeaBattleNew\obj\Release\net6.0-windows\SeaBattleNew.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Visual Studio 2022\Projects\SeaBattleNew\SeaBattleNew\obj\Release\net6.0-windows\SeaBattleNew.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2022\Projects\SeaBattleNew\SeaBattleNew\obj\Release\net6.0-windows\SeaBattleNew.AssemblyInfo.cs
+D:\Documents\Visual Studio 2022\Projects\SeaBattleNew\SeaBattleNew\obj\Release\net6.0-windows\SeaBattleNew.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Projects\SeaBattleNew\SeaBattleNew\obj\Release\net6.0-windows\Морской бой.dll
+D:\Documents\Visual Studio 2022\Projects\SeaBattleNew\SeaBattleNew\obj\Release\net6.0-windows\refint\Морской бой.dll
+D:\Documents\Visual Studio 2022\Projects\SeaBattleNew\SeaBattleNew\obj\Release\net6.0-windows\Морской бой.pdb
+D:\Documents\Visual Studio 2022\Projects\SeaBattleNew\SeaBattleNew\obj\Release\net6.0-windows\SeaBattleNew.genruntimeconfig.cache
+D:\Documents\Visual Studio 2022\Projects\SeaBattleNew\SeaBattleNew\obj\Release\net6.0-windows\ref\Морской бой.dll
